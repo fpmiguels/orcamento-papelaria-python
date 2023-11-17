@@ -1,2 +1,2 @@
 # python
-Meu caminho de aprendizagem em Python
+Meu caminho de aprendizagem em Python com estudo em lógicas, bibliotecas a I.A.
