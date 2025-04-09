@@ -1,2 +1,28 @@
-# python_papelaria
-Este código em Python foi desenvolvido para calcular o preço total de serviços oferecidos por uma papelaria. O programa inclui funções para escolha do tipo de serviço (digitalização, impressão colorida, impressão preto e branco, e fotocópia), seleção do número de páginas, e opção por serviços extras de encadernação.
+# Orçamento de Serviços de Papelaria - Python
+
+Projeto de faculdade em Python que simula o sistema de orçamento de uma papelaria, permitindo ao usuário escolher o tipo de serviço, número de páginas e serviços extras como encadernação.
+
+## 🧾 Funcionalidades
+
+- Escolha do tipo de serviço:
+  - Digitalização
+  - Impressão colorida
+  - Impressão preto e branco
+  - Fotocópia
+- Cálculo com descontos por quantidade de páginas
+- Adição de serviços extras (encadernação simples ou capa dura)
+- Cálculo e exibição do preço total
+
+## 🛠️ Tecnologias
+
+- Python (puro)
+
+## ▶️ Como usar
+
+1. Execute o script em um terminal ou IDE Python:
+   ```bash
+   python nome_do_arquivo.py
+
+👨‍💻 Autor
+Felipe Miguel
+GitHub | LinkedIn
