@@ -21,7 +21,7 @@ Projeto de faculdade em Python que simula o sistema de orçamento de uma papelar
 
 1. Execute o script em um terminal ou IDE Python:
    ```bash
-   python nome_do_arquivo.py
+   python papelaria.py
 
 👨‍💻 Autor
 Felipe Miguel
